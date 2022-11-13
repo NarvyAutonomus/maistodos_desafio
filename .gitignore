@@ -1,0 +1,5 @@
+__pycache__
+**.pyc
+spark-warehouse
+raw_data
+processed_data
